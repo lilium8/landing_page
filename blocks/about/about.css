@@ -1,0 +1,7 @@
+.about {
+    margin: 0 auto;
+    max-width: 80%;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+}

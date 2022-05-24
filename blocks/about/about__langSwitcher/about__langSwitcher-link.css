@@ -1,0 +1,9 @@
+.about__langSwitcher-link {
+    text-decoration: none;
+    color: #828282;
+    font-weight: 600;
+}
+
+.about__langSwitcher-link:active {
+    color: black; 
+}

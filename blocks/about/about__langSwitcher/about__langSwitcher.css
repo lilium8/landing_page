@@ -1,0 +1,5 @@
+.about__langSwitcher {
+    text-decoration: none;
+    transform: rotate(-90deg);
+    text-align: left;
+}
