@@ -10,3 +10,6 @@
 @import url(../blocks/about/about__langSwitcher/about__langSwitcher.css);
 @import url(../blocks/about/about__langSwitcher/about__langSwitcher-link.css);
 @import url(../blocks/about/about__photo.css);
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/description__header.css);
+@import url(../blocks/description/description__p.css);
