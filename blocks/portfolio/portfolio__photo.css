@@ -1,0 +1,6 @@
+.portfolio__photo {
+    width: 900px;
+    height: 500px;
+    margin: 20px auto;
+    box-shadow: 4px 4px 23px 8px rgba(207, 217, 225, 0.2);
+}

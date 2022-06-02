@@ -1,0 +1,17 @@
+.skiils__technology-rating {
+	width: 180px;
+    margin: 0 auto;
+}
+.skiils__technology-rating span {
+	padding: 0;
+	font-size: 26px;
+	margin: 0 3px;
+	line-height: 1;
+	color: lightgrey;
+}
+.skiils__technology-rating > span:before {
+	content: '★';
+}
+.skiils__technology-rating > span.active {
+	color: gold;
+}
